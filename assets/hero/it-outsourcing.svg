@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">IT outsourcing illustration</title>
+  <desc id="desc">A branded IT outsourcing scene with support, engineering, and service operations.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fafdff"/>
+      <stop offset="48%" stop-color="#d4efff"/>
+      <stop offset="100%" stop-color="#09346a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="300" cy="200" r="170" fill="#009adf" fill-opacity="0.22"/>
+  <circle cx="1310" cy="170" r="150" fill="#f3a836" fill-opacity="0.22"/>
+  <rect x="110" y="120" width="1380" height="660" rx="42" fill="#ffffff" fill-opacity="0.86"/>
+  <rect x="190" y="214" width="420" height="360" rx="34" fill="#09468a"/>
+  <rect x="242" y="266" width="132" height="132" rx="24" fill="#ffffff"/>
+  <rect x="404" y="282" width="150" height="24" rx="12" fill="#8edcff"/>
+  <rect x="404" y="326" width="116" height="18" rx="9" fill="#8edcff"/>
+  <rect x="404" y="360" width="130" height="18" rx="9" fill="#8edcff"/>
+  <rect x="242" y="430" width="312" height="84" rx="20" fill="#0f2340" fill-opacity="0.22"/>
+  <rect x="670" y="214" width="730" height="174" rx="34" fill="#eaf7ff"/>
+  <rect x="720" y="264" width="200" height="24" rx="12" fill="#09468a"/>
+  <rect x="720" y="308" width="560" height="18" rx="9" fill="#aadfff"/>
+  <rect x="720" y="342" width="412" height="18" rx="9" fill="#aadfff"/>
+  <g>
+    <circle cx="820" cy="590" r="66" fill="#09468a"/>
+    <path d="M754 688c18-72 63-114 66-116 3 2 48 44 66 116z" fill="#09468a"/>
+    <circle cx="1050" cy="590" r="66" fill="#f3a836"/>
+    <path d="M984 688c18-72 63-114 66-116 3 2 48 44 66 116z" fill="#f3a836"/>
+    <circle cx="1280" cy="590" r="66" fill="#009adf"/>
+    <path d="M1214 688c18-72 63-114 66-116 3 2 48 44 66 116z" fill="#009adf"/>
+  </g>
+  <g fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M294 316l34 34 60-74"/>
+    <path d="M286 468h80"/>
+    <path d="M402 468h88"/>
+  </g>
+  <text x="190" y="734" fill="#09468a" font-family="Manrope, Arial, sans-serif" font-size="50" font-weight="800">
+    Deployment-ready talent with structure, speed, and service discipline.
+  </text>
+</svg>

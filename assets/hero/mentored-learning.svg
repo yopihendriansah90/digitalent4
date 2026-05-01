@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Mentored learning illustration</title>
+  <desc id="desc">A branded mentoring scene with trainer support and digital collaboration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7fbff"/>
+      <stop offset="42%" stop-color="#d8efff"/>
+      <stop offset="100%" stop-color="#113a72"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="240" cy="180" r="150" fill="#f3a836" fill-opacity="0.25"/>
+  <circle cx="1340" cy="730" r="190" fill="#009adf" fill-opacity="0.2"/>
+  <rect x="120" y="120" width="1360" height="660" rx="42" fill="#ffffff" fill-opacity="0.82"/>
+  <rect x="180" y="200" width="560" height="430" rx="32" fill="#0f2340"/>
+  <rect x="212" y="232" width="496" height="278" rx="20" fill="#0b65c4"/>
+  <rect x="212" y="534" width="220" height="30" rx="15" fill="#ffffff" fill-opacity="0.16"/>
+  <rect x="462" y="534" width="150" height="30" rx="15" fill="#f3a836"/>
+  <rect x="820" y="200" width="600" height="220" rx="32" fill="#09468a"/>
+  <rect x="864" y="246" width="180" height="24" rx="12" fill="#ffffff"/>
+  <rect x="864" y="290" width="470" height="18" rx="9" fill="#73cfff"/>
+  <rect x="864" y="326" width="422" height="18" rx="9" fill="#73cfff"/>
+  <rect x="864" y="362" width="320" height="18" rx="9" fill="#73cfff"/>
+  <g>
+    <circle cx="930" cy="580" r="72" fill="#09468a"/>
+    <path d="M866 676c16-68 61-110 64-112 3 2 48 44 64 112z" fill="#09468a"/>
+    <circle cx="1180" cy="580" r="72" fill="#f3a836"/>
+    <path d="M1116 676c16-68 61-110 64-112 3 2 48 44 64 112z" fill="#f3a836"/>
+  </g>
+  <path d="M998 594h114" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1030 560l-32 34 32 34" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1080 560l32 34-32 34" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="188" y="706" fill="#09468a" font-family="Manrope, Arial, sans-serif" font-size="50" font-weight="800">
+    Mentored learning built for discussion, labs, and real scenarios.
+  </text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Training session illustration</title>
+  <desc id="desc">A branded classroom scene representing DigiTalent training activities.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#eaf7ff"/>
+      <stop offset="55%" stop-color="#cdeeff"/>
+      <stop offset="100%" stop-color="#0b4a91"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#e6f5ff" stop-opacity="0.84"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1340" cy="180" r="190" fill="#f3a836" fill-opacity="0.2"/>
+  <circle cx="220" cy="760" r="220" fill="#009adf" fill-opacity="0.18"/>
+  <rect x="110" y="110" width="1380" height="680" rx="40" fill="#0f2340" fill-opacity="0.16"/>
+  <rect x="140" y="140" width="1320" height="620" rx="34" fill="url(#panel)"/>
+  <rect x="220" y="210" width="690" height="330" rx="26" fill="#0f2340"/>
+  <rect x="252" y="242" width="626" height="196" rx="18" fill="#0d5eb3"/>
+  <rect x="252" y="458" width="300" height="44" rx="12" fill="#ffffff" fill-opacity="0.16"/>
+  <rect x="580" y="458" width="210" height="44" rx="12" fill="#f3a836"/>
+  <rect x="1000" y="242" width="250" height="250" rx="28" fill="#e9f6ff"/>
+  <rect x="1038" y="280" width="174" height="22" rx="11" fill="#009adf"/>
+  <rect x="1038" y="322" width="136" height="18" rx="9" fill="#c7eaff"/>
+  <rect x="1038" y="356" width="162" height="18" rx="9" fill="#c7eaff"/>
+  <rect x="1038" y="390" width="118" height="18" rx="9" fill="#c7eaff"/>
+  <g fill="#ffffff" fill-opacity="0.96">
+    <circle cx="360" cy="646" r="56"/>
+    <circle cx="540" cy="646" r="56"/>
+    <circle cx="720" cy="646" r="56"/>
+  </g>
+  <g fill="#09468a">
+    <path d="M314 700c10-44 38-74 46-82h0c8 8 36 38 46 82z"/>
+    <path d="M494 700c10-44 38-74 46-82h0c8 8 36 38 46 82z"/>
+    <path d="M674 700c10-44 38-74 46-82h0c8 8 36 38 46 82z"/>
+  </g>
+  <circle cx="1126" cy="620" r="72" fill="#f3a836"/>
+  <path d="M1062 710c18-70 62-112 64-114 2 2 46 44 64 114z" fill="#ffffff"/>
+  <rect x="1068" y="178" width="260" height="30" rx="15" fill="#ffffff" fill-opacity="0.8"/>
+  <text x="220" y="640" fill="#09468a" font-family="Manrope, Arial, sans-serif" font-size="52" font-weight="800">
+    Practical classes. Clear guidance. Industry-ready outcomes.
+  </text>
+</svg>
